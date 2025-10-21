@@ -44,5 +44,5 @@ elimination of bottlenecks using proven React patterns.
 
 ---
 
-**Live Demo**: [performance-demo.vercel.app](https://performance-demo.vercel.app)
+**Live Demo**: [https://cheerful-florentine-aa784b.netlify.app/](https://cheerful-florentine-aa784b.netlify.app/)
 **Code**: [https://github.com/Far3/performance-example](https://github.com/Far3/performance-example)
