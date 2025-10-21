@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, memo, lazy, Suspense } from 'react';
+import { useState, useMemo, useCallback, lazy, Suspense } from 'react';
 import './App.css';
 
 // GOOD: Lazy load components
